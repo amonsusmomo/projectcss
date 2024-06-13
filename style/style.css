@@ -1,0 +1,16 @@
+@import url('https://fonts.googleapis.com/css2?family=Roboto:ital,wght@0,100;0,300;0,400;0,500;0,700;0,900;1,100;1,300;1,400;1,500;1,700;1,900&display=swap');
+
+nav{border: 5px solid orange;  
+width: 190px;
+height: 450px;
+
+}
+button{font-size: 40px; background-color: blueviolet;}
+#Hone{font-size: 45px;}
+#image{position: absolute;
+bottom: 300PX;
+right: 0;
+left: 10;
+}
+pre{font-family: "Roboto", sans-serif;}
+body{background-color: cornsilk;}
